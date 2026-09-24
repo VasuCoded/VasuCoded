@@ -6,7 +6,7 @@ I build things to find out how they work. Web apps mostly, hand-tracking and vis
 
 - [PaperFlow](https://github.com/VasuCoded/PaperFlow) - Multi-tenant question bank and mistake-practice platform for classes 9 to 12. Tests stay on paper; the app logs right and wrong per question and turns mistakes into targeted practice. Paper generator, multi-set shuffle engine, print-ready keys, row-level security, 275 tests.
 - [WhatNow](https://whatnowindia.vercel.app) - Free, bilingual (English and Hindi) career and exam guidance platform for Indian students. Co-building with a team.
-- [Portfolio](https://portfoliowebsite-theta-brown.vercel.app) - My personal site, built with Next.js.
+- [Portfolio](https://vasucoded.vercel.app) - My personal site, built with Next.js.
 
 ### Dormant
 
